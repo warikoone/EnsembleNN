@@ -1,0 +1,6 @@
+{
+"trainDataPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.2/TwitterPregnancyIdentification_1.0/src/com/prj/bundle/resource/twitter_pregnant_3000_v2.txt",
+"wordEmbeddingPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.2/TwitterPregnancyIdentification_1.0/src/com/prj/bundle/resource/GoogleNews-vectors-negative300.bin",
+"multiClassDataPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.2/TwitterPregnancyIdentification_1.0/src/com/prj/bundle/resource/TPI_SentimentAnnotated.txt",
+"wordCloudDataPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.2/TwitterPregnancyIdentification_1.0/src/com/prj/bundle/resource/wordCloudDictionary.txt"
+}
